@@ -1,4 +1,4 @@
 # codes
-it contains solution to some questions of codeforces and CSES Dataset
+it contains solution to some questions of CSES Dataset
 
 
